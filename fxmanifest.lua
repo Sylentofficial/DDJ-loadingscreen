@@ -16,6 +16,5 @@ files {
     "html/style.css",
     "html/script.js",
     "html/musik.mp3",
-    "html/img/background/*.jpg",
-    "html/img/logo/logo.png"
+    "html/img/background/*.jpg"
 }
